@@ -1,0 +1,9 @@
+{
+  "Header": {
+    "index": "Inicio",
+    "switchLocale": "Cambiar Idioma"
+  },
+  "Footer": {
+    "link1": "Enlace 1"
+  }
+}
